@@ -1,6 +1,7 @@
-package com.rays.basic;
+package com.rays.loops;
 
 public class ReverseUsingWhile {
+
 	public static void main(String[] args) {
 		int num = 123;
 		int rev = 0;
@@ -11,6 +12,7 @@ public class ReverseUsingWhile {
 			num = num / 10;
 		}
 		System.out.println(rev);
+
 	}
 
 }

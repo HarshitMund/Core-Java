@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.loops;
 
 import java.util.Scanner;
 
@@ -23,7 +23,7 @@ public class Panildrome {
 			System.out.println("This is not a palindrome");
 		}
 		
-		sc.close();
+		sc.close();// TODO Auto-generated method stub
 
 	}
 

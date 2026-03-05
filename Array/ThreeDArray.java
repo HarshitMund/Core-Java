@@ -1,9 +1,8 @@
-package com.rays.basic;
+package com.rays.array;
 
 public class ThreeDArray {
 
 	public static void main(String[] args) {
-		
 		int[][][] a = new int[5][5][5];
 		
 		for(int i = 0; i < a.length; i++) {

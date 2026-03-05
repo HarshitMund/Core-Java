@@ -1,9 +1,8 @@
-package com.rays.basic;
+package com.rays.array;
 
-public class FindMissingElement {
+public class FindingMissingElement {
 
 	public static void main(String[] args) {
-		
 		int a[] = {3, 6, 4, 9, 19, 23};
 		int b[] = {4, 19, 3, 9, 6};
 		int aSum = 0, bSum = 0;

@@ -1,6 +1,7 @@
 package com.rays.basic;
 
 public class SwitchCase {
+
 	public static void main(String[] args) {
 		int number = 5;
 		switch (number) {
@@ -16,5 +17,7 @@ public class SwitchCase {
 			default:
 				System.out.println("Other Number");
 		}
+
 	}
+
 }

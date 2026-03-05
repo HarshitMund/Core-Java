@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.array;
 
 import java.util.Scanner;
 
@@ -46,6 +46,7 @@ public class SumOfEachRowAndCol {
 		}
 		
 		sc.close();
+
 	}
 
 }

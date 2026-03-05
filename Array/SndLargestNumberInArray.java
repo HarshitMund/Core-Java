@@ -1,11 +1,10 @@
-package com.rays.basic;
+package com.rays.array;
 
 import java.util.Scanner;
 
-public class SndLargestNumInArray {
+public class SndLargestNumberInArray {
 
 	public static void main(String[] args) {
-		
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Enter the size of the array:");
@@ -32,6 +31,7 @@ public class SndLargestNumInArray {
 		
 		System.out.println("Second largest number in the array is " + sndLarge);
 		sc.close();
+
 
 	}
 

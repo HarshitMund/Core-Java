@@ -1,6 +1,6 @@
-package com.rays.basic;
+package com.rays.loops;
 
-public class SumOfNumBetween100And200DivBy7 {
+public class SumOfNumBwt100And200DivBy7 {
 
 	public static void main(String[] args) {
 		int sum = 0;
@@ -11,6 +11,7 @@ public class SumOfNumBetween100And200DivBy7 {
 			}
 		}
 		System.out.println("sum of all integers greater then 100 and less than 200 that are divided by 7 is " + sum);
+
 
 	}
 

@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.array;
 
 import java.util.Scanner;
 
@@ -32,6 +32,7 @@ public class SearchNumInArray {
 			 System.out.println("Index of the entered number is " + position);
 		 
 		 sc.close();
+
 
 	}
 

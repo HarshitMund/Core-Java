@@ -1,6 +1,6 @@
-package com.rays.basic;
+package com.rays.array;
 
-public class TwoDArray {
+public class TWoDArray {
 
 	public static void main(String[] args) {
 		int[][] table = new int[10][10];

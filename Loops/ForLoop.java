@@ -1,10 +1,12 @@
-package com.rays.basic;
+package com.rays.loops;
 
 public class ForLoop {
-	public static void main(String[] args)
-	{
+
+	public static void main(String[] args) {
 		for (int i = 0; i <= 5; i++) {
 			System.out.println("The number is " + i);
 		}
+
 	}
+
 }

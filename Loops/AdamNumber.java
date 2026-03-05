@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.loops;
 
 public class AdamNumber {
 

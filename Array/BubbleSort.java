@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.array;
 
 public class BubbleSort {
 
@@ -17,6 +17,7 @@ public class BubbleSort {
 		
 		for(int i : a)
 			System.out.print(i + " ");
+
 
 	}
 

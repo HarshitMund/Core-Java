@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.loops;
 
 import java.util.Scanner;
 
@@ -18,6 +18,7 @@ public class HarmonicSeries {
 		System.out.println();
 		System.out.println("Sum of Harmonic Series is " + sum);
 		sc.close();
+
 	}
 
 }

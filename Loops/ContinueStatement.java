@@ -1,6 +1,7 @@
-package com.rays.basic;
+package com.rays.loops;
 
 public class ContinueStatement {
+
 	public static void main(String[] args) {
 		System.out.println("Odd Number");
 		for(int i = 1; i <= 10; i++) {
@@ -17,5 +18,7 @@ public class ContinueStatement {
 			}
 			System.out.println(i);
 		}
+
 	}
+
 }

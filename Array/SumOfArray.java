@@ -1,6 +1,7 @@
-package com.rays.basic;
+package com.rays.array;
 
 public class SumOfArray {
+
 	public static void main(String[] args) {
 		int[] table = {1,2,3,4,5};
 		int sum =0 ;
@@ -16,5 +17,7 @@ public class SumOfArray {
 		
 		System.out.println();
 		System.out.println("Sum of Array is " + sum);
+
 	}
+
 }

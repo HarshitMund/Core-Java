@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.array;
 
 public class TestArray {
 
@@ -14,6 +14,7 @@ public class TestArray {
 		for(int i = 0; i < a.length; i++) {
 			System.out.println(i + " = " + a[i]);
 		}
+
 	}
 
 }

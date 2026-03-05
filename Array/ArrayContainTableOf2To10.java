@@ -1,6 +1,6 @@
-package com.rays.basic;
+package com.rays.array;
 
-public class ArrayContainsTableOf2To10 {
+public class ArrayContainTableOf2To10 {
 
 	public static void main(String[] args) {
 		int a[][] = new int[9][10];

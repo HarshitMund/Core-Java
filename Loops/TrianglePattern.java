@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.loops;
 
 import java.util.Scanner;
 
@@ -16,6 +16,7 @@ public class TrianglePattern {
 			System.out.println();
 		}
 		sc.close();
+
 	}
 
 }

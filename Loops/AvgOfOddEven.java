@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.loops;
 
 import java.util.Scanner;
 
@@ -24,6 +24,7 @@ public class AvgOfOddEven {
 		System.out.println("Average of Even numbers is " + (evenSum/evenCount));
 		
 		sc.close();
+
 	}
 
 }

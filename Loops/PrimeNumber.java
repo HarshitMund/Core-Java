@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.loops;
 
 import java.util.Scanner;
 
@@ -25,6 +25,7 @@ public class PrimeNumber {
 			System.out.println(num + " is not a prime number");
 		}
 		sc.close();
+
 	}
 
 }

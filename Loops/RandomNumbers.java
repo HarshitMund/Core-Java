@@ -1,4 +1,4 @@
-package com.rays.basic;
+package com.rays.loops;
 
 public class RandomNumbers {
 
@@ -9,7 +9,7 @@ public class RandomNumbers {
 		for ( int i = 0; i < 5 ; i++) {
 			System.out.println(min + (int)(Math.random() * ((max - min) + 1)));
 		}
-		
+
 	}
 
 }

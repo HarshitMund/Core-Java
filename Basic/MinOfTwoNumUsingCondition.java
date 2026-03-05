@@ -2,7 +2,8 @@ package com.rays.basic;
 
 import java.util.Scanner;
 
-public class MinOfTwoUsingCondition {
+public class MinOfTwoNumUsingCondition {
+
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
@@ -20,6 +21,7 @@ public class MinOfTwoUsingCondition {
 		}
 		
 		sc.close();
-		
+
 	}
+
 }
