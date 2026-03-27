@@ -1,6 +1,6 @@
 package com.rays.collection.sorting;
 
-public class Marksheet {
+public class Marksheet implements Comparable<Marksheet> {
 
 	private int rollNo;
 	private String name;
@@ -19,6 +19,11 @@ public class Marksheet {
 	@Override
 	public String toString() {
 		return "Roll No: " + rollNo + ", Name: " + name + ", Phy: " + phy + ", Chm: " + chm + ", Maths: " + maths;
+	}
+
+	@Override
+	public int compareTo(Marksheet o) {
+		return this.rollNo - o.rollNo;
 	}
 	
 }
